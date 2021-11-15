@@ -1,0 +1,41 @@
+[{
+  "title": "Brown eggs",
+  "type": "dairy",
+  "price": 28.1
+}, {
+  "title": "Sweet fresh stawberry",
+  "type": "fruit",
+  "price": 29.45
+}, {
+  "title": "Asparagus",
+  "type": "vegetable",
+  "price": 18.95
+}, {
+  "title": "Green smoothie",
+  "type": "dairy",
+  "price": 17.68
+}, {
+  "title": "Raw legums",
+  "type": "vegetable",
+  "price": 17.11
+}, {
+  "title": "Fresh stawberry",
+  "type": "fruit",
+  "price": 28.59
+}, {
+  "title": "Lemon and salt",
+  "type": "fruit",
+  "price": 15.79
+}, {
+  "title": "Homemade bread",
+  "type": "bakery",
+  "price": 17.48
+}, {
+  "title": "Healthy breakfast",
+  "type": "fruit",
+  "price": 13.02
+}, {
+  "title": "Green beans",
+  "type": "vegetable",
+  "price": 28.79
+}]
